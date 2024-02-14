@@ -6,7 +6,7 @@ Android <br>
 - Homepage
 https://www.ebay.pl/?mkcid=1&mkrid=4908-226936-19255-0&siteid=212&campid=5339039426&customid=&toolid=10001&mkevt=1
 - VIP
-https://www.ebay.de/itm/325731326971?mkcid=1&mkrid=4908-226936-19255-0&siteid=212&campid=5339039426&customid=&toolid=10001&mkevt=1
+https://www.ebay.pl/itm/325731326971?mkcid=1&mkrid=4908-226936-19255-0&siteid=212&campid=5339039426&customid=&toolid=10001&mkevt=1
 
 iOS <br>
 - Homepage
